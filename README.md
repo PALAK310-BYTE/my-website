@@ -1,0 +1,1 @@
+# GramERP — Step 1\n\nResponsive public landing page scaffold.\n\n## Run locally\n\n```bash\nnpm install\nnpm run dev\n```\n\nThis is the public-site foundation only. Authentication, database-backed modules, fee/attendance workflows, PDF receipts, WhatsApp API and offline sync are subsequent steps; no live backend is claimed yet.\n
